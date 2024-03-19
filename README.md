@@ -13,7 +13,7 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 
 <!-- Talking about you -->
-**Talking about Personal Stuffs:**
+**💁‍♂️ About me:**
 
 - 💻 I'm Software Engineer;
 - 👨🏽‍💻 I’m currently working as Flutter developer;
