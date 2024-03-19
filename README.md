@@ -17,7 +17,7 @@ You can use the website to generate badges: https://shields.io/
 - 💻 I'm Software Engineer;
 - 👨🏽‍💻 I’m currently working as Flutter developer;
 - 🌱 I'm passionate about software development;
-- 🚀 enthusiastic about entrepreneurship, innovation, and sharing ideas.
+- 🚀 Enthusiastic about entrepreneurship, innovation, and sharing ideas;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: ahmad.hessi.96@gmail.com;
 
