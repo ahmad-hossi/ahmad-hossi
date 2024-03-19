@@ -7,7 +7,7 @@ You can use the website to generate badges: https://shields.io/
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ahmad-hossi)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-hossi/)
-[![Medium](https://img.shields.io/badge/-medium-white?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-hossi/)
+[![Medium](https://img.shields.io/badge/-medium-white?style=flat&logo=medium&logoColor=white)](https://medium.com/@ahmad.hossi)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ahmad.hessi.96@gmail.com)
 
 &nbsp;
