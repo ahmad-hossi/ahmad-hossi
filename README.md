@@ -14,10 +14,10 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **💁‍♂️ About me:**
 
-- 💻 I'm Software Engineer currently working as Flutter developer
-- 🌱 I'm passionate about software development;
-- 🚀 Enthusiastic about entrepreneurship, innovation, and sharing ideas;
-- 💬 Ask me about anything, I am happy to help;
+- 💻 I'm Software Engineer, currently working as Flutter developer
+- 🌱 I'm passionate about software development
+- 🚀 Enthusiastic about entrepreneurship, innovation, and sharing ideas
+- 💬 Ask me about anything, I am happy to help
 
 **Languages and Tools:** 
 
