@@ -9,7 +9,6 @@ You can use the website to generate badges: https://shields.io/
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-hossi/)
 [![Medium](https://img.shields.io/badge/-medium-000?style=flat&logo=medium&logoColor=white)](https://medium.com/@ahmad.hossi)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ahmad.hessi.96@gmail.com)
-[![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)]
 
 &nbsp;
 
